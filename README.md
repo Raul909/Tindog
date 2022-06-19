@@ -1,7 +1,7 @@
 
 # TinDog
 
-Website idea from Angela Yu's Course
+Website idea from Angela Yu's Course and I have used Bootstrap v5.2 rather than Bootstrap v4.0
 
 
 
